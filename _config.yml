@@ -2,18 +2,15 @@
 title: Diego De Souza
 email: diegotrus7@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Hardware, Languages, Algorithms, Logic, Coding, Design!
+  When I thought I couldn't go on, I forced myself to keep going.
+   My success is based on persistence and effort, not luck.
 
-  Coding is more than just a career or a hobby, coding is about solving real problems
-  for real people using the tools we have available.
-  When these tools fail we develop better ones to serve the purpose.
+   "Everything is possible for one who believes."
 
-
-  "Everything is possible for one who believes."
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://diegodesouza.com" # the base hostname & protocol for your site
+url: "http://diegodesouza.github.io" # the base hostname & protocol for your site
 twitter_username: diegotrus7
-github_username:  diegotrus7
+github_username:  diegodesouza
 
 # Build settings
 markdown: kramdown
