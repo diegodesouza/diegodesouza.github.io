@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "I do it, you can do it as well"
+title:  "If I do it, you can do it as well"
 date:   2015-01-05 11:30:21
 categories: jekyll update
 ---
