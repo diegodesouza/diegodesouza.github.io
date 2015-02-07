@@ -20,8 +20,9 @@ executed by the browser interpreter.
 
 enter this
 
-  ```javascript
+  ``` javascript
   Array(16).join("let's have some fun" -1) + " Batman!"
+
   ```
 
 get it?
