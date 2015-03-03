@@ -30,10 +30,11 @@ or same as
 also same as
 
 
-        ```sum = 0
-        (5..10).each do |value|
-          sum += value
-        end
-        sum
 
-        #=> 45```
+    sum = 0
+    (5..10).each do |value|
+      sum += value
+    end
+    sum
+
+    #=> 45
