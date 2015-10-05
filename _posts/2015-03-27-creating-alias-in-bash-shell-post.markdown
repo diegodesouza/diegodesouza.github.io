@@ -13,7 +13,7 @@ little bit of research to remind myself how to get my favorite git alias working
 again. So I decided to do a little tutorial on it, after spending sometime
 getting it setup. (for myself)
 
-  • Launch your Terminal. I use [Quisilver](http://qsapp.com/), so can either
+  • Launch your Terminal. I use [Quicksilver](http://qsapp.com/), so can either
   use ```Ctr + Space + type<Iterm>``` or the following hotkey/trigger  ```Ctr + Option + Cmd + t```
 
 
