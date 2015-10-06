@@ -7,7 +7,7 @@ categories: jekyll update
 
 # Simplicity
 
-When iterating through an array, if you don’t want a return value from the operations,
+When iterating through an array, if you don’t want a return a value from the operations,
 use ```each```; and if you’re looking for a return value, use the iterator method that
 delivers the type of value you want returned. So if you want to take a collection and
 return a subset of that collection based on some criteria, use ```select```.
