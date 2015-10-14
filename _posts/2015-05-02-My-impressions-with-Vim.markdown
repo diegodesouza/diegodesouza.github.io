@@ -21,7 +21,7 @@ Now it amazes me to see someone who really knows how to maneuver through code, f
 as productive as one can be. 
 
 ####My Resources
-I was told about [this](http://www.cranberrycoder.com/blog/2015/01/25/the-stages-of-vim ) blog post from one of my Instructors/Mentors at Launch Academy.
+I was told about [this](http://http://spencerdixon.com/blog/the-stages-of-vim.html) blog post from one of my Instructors/Mentors at Launch Academy.
 
 I started following it, but soon got caught up doing other things and ended up putting it aside for a few weeks. 
 Still VIM was constantly in the back of my mind. Could I become more productive using it? Is the learning curve as steep 
