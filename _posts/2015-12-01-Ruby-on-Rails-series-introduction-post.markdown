@@ -2,7 +2,7 @@
 layout: post
 title:  "Ruby on Rails Series - Introduction"
 date:   2015-12-01 11:30:21
-categories: jekyll update
+categories: posts
 ---
 
 ##Ruby on Rails

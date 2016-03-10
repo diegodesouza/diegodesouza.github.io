@@ -2,8 +2,9 @@
 layout: post
 title:  "Ruby Methods - Send"
 date:   2015-04-26 11:30:21
-categories: jekyll update
+categories: posts
 ---
+
 
 # Ruby Methods and Objects - Send
 

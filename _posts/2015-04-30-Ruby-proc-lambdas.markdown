@@ -2,6 +2,7 @@
 layout: post
 title:  "Ruby Procs and Lambdas"
 date:   2015-04-30 11:30:21
+categories: posts
 ---
 
 #Ruby - Proc and Lambdas

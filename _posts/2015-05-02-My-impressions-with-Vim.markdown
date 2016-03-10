@@ -2,7 +2,7 @@
 layout: post
 title: "The Scary Text Editor" 
 date: 2015-05-02 10:16:21
-categories: jekyll update
+categories: posts
 ---
 
 #My Impressions of VIM 
