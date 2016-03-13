@@ -29,3 +29,4 @@ We're going to talk about REST*ful* resources, in the near future. But the idea 
 The idea of separation of concern is really important for a maintainable code base.
 
 The View does not have to be the one to get the data out of the database, since this is the Model's job, and the Controller decides how and what format of that data to pass on to the view (json, xml).
+
