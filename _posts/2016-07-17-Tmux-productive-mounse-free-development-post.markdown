@@ -6,7 +6,6 @@ categories: jekyll update
 ---
 
 ### Tmux - Productive Mouse-Free Development
-
 -
 
 #### Instructions
@@ -138,7 +137,6 @@ This means “Take window 1 and join it to the current window,” since we didn�
    `CTRL-LEFT` `CTRL-RIGHT` `CTRL-UP` `CTRL-DOWN`
 
 # Settings
-
 -
 
 * Reloads .tmux.conf
@@ -190,7 +188,6 @@ tmux attach -t development
 ```
 
 # Copy Mode 
-
 -
 
 * In order to be able to copy text in Tmux we need to enter *copy mode*. 
@@ -223,7 +220,6 @@ I encourage you to google these settings and dig deeper as the information is so
 
 
 # Buffers
-
 -
 
 * Displays the content of our paste buffer.
